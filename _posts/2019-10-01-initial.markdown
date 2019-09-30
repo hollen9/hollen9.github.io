@@ -1,0 +1,23 @@
+﻿---
+layout: post
+title: 剛設好這網站
+date:   2019-10-01 03:05
+description: 第一PO。
+toc: false
+share: false
+comments: true
+tags:
+ - misc
+---
+
+因為 Youtube 想收[贊助]({{ '/donate' }})，所以想要一個免費、長期、安穩的 Host 放網站。
+其實我已經有一個 Wordpress 架在一個免費主機上，搭配免費 Domain (gd, ml 這類的)。
+用了兩年的感想是：
+速度很慢，而且你真的不知道他什麼時候會收掉。
+1. Medium 雖然穩定且風評不錯，但是太偏純文字了。
+2. Google Blogspot 排名會給很差，SEO優化也不好，
+而且說真的 Google 已經有很多免費服務收掉的記錄了，例如 Google Drive 外連。
+3. Github 被微軟收購了，風向球看起來也不錯。
+速度真的很快！
+
+所以就請多多指教了。

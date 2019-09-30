@@ -1,10 +1,11 @@
 ---
 # layout: post
-layout: page
+layout: post
 title:  "贊助"
 # date:   2019-10-01 02:34
 # description: 贊助
 # toc: true
+comments: true
 ---
 
 # 目次
