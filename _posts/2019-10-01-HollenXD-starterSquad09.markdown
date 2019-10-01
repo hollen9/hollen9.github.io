@@ -41,6 +41,57 @@ me-蜂取中文諧音，蜜蜂。
 英文常用片語: As I live and breath
 用以表達驚訝的一種正式用法。
 中文取瘋癲的「瘋」與「蜂」的諧音。
+<br/>
 
-# 小拳石唱歌的歌詞
+# 小拳石唱歌的歌詞: Rock Smasher
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7XGHN5U3Voc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+原作者 Pierce Shipp (Shippiddge) 另外上傳的 MV
+如果有需要我也可以另外做一個 MV 版本。
+
+"Rock Smasher"
+《滾石破壞王》
+
+```
+
 啊～～～～～～啊～
+
+殘害若小身軀
+根本無力反擊
+終結一切恐懼
+用拳頭粉碎你
+你沒有勝算！
+你已經完蛋～～～～ㄢ～～～
+
+恨你恨到骨裡
+絕望把你吞去
+打得你連痛都感覺不到！
+看你有何能耐！
+別肖想什麼奇蹟
+任命把罪孽清算
+瞞天昧地　殺人如麻
+罪無可赦　血債血還
+
+多少百姓遇害
+正值青春年華
+蹂躪他們的家園
+現在就做個了斷！你-
+將要葬在這！
+沒人會掛念～～～～ㄢ～～～ㄢ！
+
+哈哈哈哈哈哈哈！
+
+殺 x6 (小聲)
+殺！！！（突出）
+殺！！ x16
+
+死亡滋味
+近在眼前
+你躲不掉
+我看得見
+窮途末路
+與世永別
+最後一擊
+送你上～黃泉。
+
+```

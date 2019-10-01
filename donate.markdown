@@ -66,7 +66,7 @@ comments: true
 | ![img]({{ '/assets/images/qrCodes/taiwanPay_Free.png' | relative_url }}){: .center-image }*打開手機的「台灣Pay」，點選**掃碼收付**。* | ![img]({{ '/assets/images/qrCodes/oPay_web.png' }}){: .center-image }*直接開啟歐付寶網頁。* 
 
 ***
-
+<!-- 就當作是有緣吧，居然會看原始碼 XD 也不算秘密啦，只是打完之後覺得太多負能量了。 -->
 <!-- # 為何要贊助？
 ## 緣由
 首先，你要知道
