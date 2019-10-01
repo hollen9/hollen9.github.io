@@ -12,3 +12,5 @@ tags: Translations Shippiddge StarterSquad HollenXDYoutube
 ---
 
 I am all wet!
+
+{{ '你好嗎' | url_encode }}
