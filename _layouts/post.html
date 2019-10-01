@@ -19,11 +19,11 @@
                     </ul>
                   </div>
                   <div class="post-content">
+                    {% include share.html %}
                     {% if page.toc %}
                       {% include toc.html html=content class='toc' %}
                     {% endif %}
                     {{ content }}
-                    {% include share.html %}
                   </div>
                   {% if page.comments %}
                   <div id="disqus_thread">

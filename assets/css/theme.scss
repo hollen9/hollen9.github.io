@@ -108,6 +108,7 @@ ul.social-media {
 //********************************************************
 .share-bar{
   text-align: right;
+  float: right;
 }
 
 ul.share-buttons {
@@ -115,6 +116,12 @@ ul.share-buttons {
   padding: 0;
   li {
     display: inline-block;
+    
+    .fa-line {
+      color: #00B900;
+      
+    }
+
     .fa-facebook-f,
     .fa-twitter,
     .fa-google-plus-g,
@@ -134,6 +141,7 @@ ul.share-buttons {
   }
 
   // Square frame
+  li.share-line .fa-square { color: #00B900;}
   li.share-facebook .fa-square { color: #3B5998;}
   li.share-twitter .fa-square { color: #55acee;}
   li.share-google-plus .fa-square { color: #dd4b39;}
@@ -141,6 +149,7 @@ ul.share-buttons {
   li.share-pinterest .fa-square { color: #BD081C;}
   li.share-envelope .fa-square { color: #3B5998;}
   // Circle frame
+  li.share-line .fa-circle { color: #00B900;}
   li.share-facebook .fa-circle { color: #3B5998;}
   li.share-twitter .fa-circle { color: #55acee;}
   li.share-google-plus .fa-circle { color: #dd4b39;}
@@ -379,8 +388,8 @@ table.inner-borders {
 .post-content h4,
 .post-content h5,
 .post-content h6 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 0px;
+  margin-top: 0px;
 }
 
 

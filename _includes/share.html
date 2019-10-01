@@ -2,10 +2,23 @@
 
 <div class="share-bar">
   <ul class="share-buttons">
+
+    {% if site.share.line %}
+        <li class="share-line">
+            <a href="https://social-plugins.line.me/lineit/share?url={{ site.url | append: page.url}}"
+               target="_blank" title="分享到LINE">
+              <span class="fa-layers fa-fw fa-2x">
+                  <i class="far fa-square" style="background: url('{{ site.url }}/assets/images/share/line.png'); background-size: 32px; background-position: -3px -2px;"></i>
+                  <!-- <i class="fab fa-line" data-fa-transform="shrink-8"></i> -->
+              </span>
+            </a>
+        </li>
+    {% endif %}
+
     {% if site.share.facebook %}
       <li class="share-facebook">
           <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | append: page.url}}"
-             target="_blank" title="Share on Facebook">
+             target="_blank" title="分享到臉書">
             <span class="fa-layers fa-fw fa-2x">
                 <i class="far fa-square"></i>
                 <i class="fab fa-facebook-f" data-fa-transform="shrink-8"></i>
@@ -16,7 +29,7 @@
 
     {% if site.share.twitter %}
     <li class="share-twitter">
-      <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url }}&text={{page.title | url_encode}}" target="_blank" title="Tweet">
+      <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url }}&text={{page.title | url_encode}}" target="_blank" title="發推">
         <span class="fa-layers fa-fw fa-2x">
             <i class="far fa-circle"></i>
             <i class="fab fa-twitter" data-fa-transform="shrink-8"></i>
@@ -27,7 +40,7 @@
 
     {% if site.share.gplus %}
     <li class="share-google-plus">
-      <a href="https://plus.google.com/share?url={{ site.url | append: page.url}}" target="_blank" title="Share on Google Plus">
+      <a href="https://plus.google.com/share?url={{ site.url | append: page.url}}" target="_blank" title="分享到 Google+">
         <span class="fa-layers fa-fw fa-2x">
             <i class="far fa-circle"></i>
             <i class="fab fa-google-plus-g" data-fa-transform="shrink-8"></i>
@@ -38,7 +51,7 @@
 
     {% if site.share.linkedin %}
     <li class="share-linkedin">
-      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url | append: page.url }}&title={{page.title | url_encode }}&summary={{page.description}}&source=" target="_blank" title="Share on LinkedIn">
+      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url | append: page.url }}&title={{page.title | url_encode }}&summary={{page.description}}&source=" target="_blank" title="分享到 LinkedIn">
         <span class="fa-layers fa-fw fa-2x">
             <i class="far fa-circle"></i>
             <i class="fab fa-linkedin-in" data-fa-transform="shrink-8"></i>
