@@ -18,7 +18,7 @@ tags: Translations Shippiddge StarterSquad HollenXDYoutube
 
 意思是「我大錯特錯」了。
 但因為妙蛙種子剛好掉進水坑，所以成就了雙關的趣味。
-太水了意思是取太隨便／泡水之意。不是台語的「水」漂亮。
+太水了是取太隨便／泡水之意。不是台語的「水」漂亮。
 
 > Part of a complete breakfast!
 > 吃飯皇帝大
@@ -49,14 +49,18 @@ me-蜂取中文諧音，蜜蜂。
 原作者 Pierce Shipp (Shippiddge) 另外上傳的 MV
 如果有需要我也可以另外做一個 MV 版本。
 
+[在 Soundcloud 聆聽](https://soundcloud.com/dreux-ferrano-jr/rock-smasher)
+
+
 "Rock Smasher"
 《滾石破壞王》
 
+歌曲創作者：[DRUOX](https://druox.bandcamp.com/track/rock-smasher)
+中文填詞／翻譯：[好冷酒](https://youtube.com/HollenXD)
 ```
-
 啊～～～～～～啊～
 
-殘害若小身軀
+殘害弱小身軀
 根本無力反擊
 終結一切恐懼
 用拳頭粉碎你
@@ -94,4 +98,47 @@ me-蜂取中文諧音，蜜蜂。
 最後一擊
 送你上～黃泉。
 
+```
+
+原文歌詞
+```
+Slaughtering all who are smaller
+And too weak to resist
+Your reign of terror is over
+I’ll crush all your bones with my fist!
+
+You can’t win this time.
+I will end your life!
+despise
+Now it’s time for y
+You are the one we our demise.
+You’ll soon feel the brunt, of a force hard and blunt.
+It’s time to cut you down to size.
+
+This fight you will never win.
+I’ll cleanse the world of your sin.
+You murder and lie, for no reason why
+There’s no turning back. It’s time. To. Die.
+
+Hundreds of innocents slaughtered
+Most in their physical prime.
+You killed as you ravaged their homelands
+Now you will pay for your crimes.
+
+Your funeral's been penned.
+No one will attend!
+
+Hahahahahahaha
+
+DIE..!..!..!..!
+
+Your time has come.
+Your end is near.
+You cannot hide.
+I smell your fear.
+You’re cornered now.
+Say your goodbye
+One final strike
+Now you will- 
+die.
 ```
