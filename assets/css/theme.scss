@@ -41,6 +41,7 @@ $background-pattern: 'random-grey-variations.png';
 body {
   color: $font-color;
   background: $background-color url(pics/background/#{$background-pattern});
+  font-family: 'Noto Sans TC', sans-serif;
 }
 .card {
   background-color: $post-panel-color;
@@ -269,7 +270,8 @@ nav {
   background-color: #222;
   border-color: #080808;
   font-size: 18px;
-  font-family: "Ubuntu", sans-serif;
+  //font-family: "Ubuntu", sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   padding: 0 10px !important;
   border-top: 3px #3CA2A2 solid;
   border-bottom: 1px #000000 solid;

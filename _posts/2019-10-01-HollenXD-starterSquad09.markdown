@@ -3,13 +3,36 @@ layout: post
 title: Shippiddge動畫 | 新手戰隊09：蜥蜴殺手
 date:   2019-10-01 14:57
 description: Shippiddge 用心製作的寶可夢動畫！
-  影片中出現的英文片語是什麼意思？妙挖種子很愛說雙關語？
+  影片中出現的英文片語是什麼意思？
+  妙挖種子很愛說雙關語？
   什麼是 "I am all wet"?
 toc: false
 share: true
 comments: true
 tags: Translations Shippiddge StarterSquad HollenXDYoutube
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LAZtSrkNa8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+為了避免劇透，建議先看完影片再往下閱讀。
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 # 學習筆記
 
