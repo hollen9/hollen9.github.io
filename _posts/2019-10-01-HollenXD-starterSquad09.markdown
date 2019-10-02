@@ -14,6 +14,26 @@ tags: Translations Shippiddge StarterSquad HollenXDYoutube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LAZtSrkNa8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+為了避免劇透，建議先看完影片再往下閱讀。
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # 學習筆記
 
 > I am all wet!
