@@ -12,27 +12,34 @@ comments: true
 tags: Translations Shippiddge StarterSquad HollenXDYoutube
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LAZtSrkNa8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+暴戾之物魚肉鄉民...... 唯有勇士挺身而出、消滅怪獸，才能救濟天下！
+
+{% include youtubePlayer.html id='LAZtSrkNa8o' %}
 
 為了避免劇透，建議先看完影片再往下閱讀。
 
+<br>10
 <br>
+<br>9
 <br>
+<br>8
 <br>
+<br>7
 <br>
+<br>6
 <br>
+<br>5
 <br>
+<br>4
 <br>
+<br>3
 <br>
+<br>3
 <br>
+<br>2
 <br>
+<br>1
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 # 學習筆記
 
@@ -68,7 +75,8 @@ me-蜂取中文諧音，蜜蜂。
 
 # 小拳石唱歌的歌詞: Rock Smasher
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XGHN5U3Voc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubePlayer.html id='7XGHN5U3Voc' %}
+
 原作者 Pierce Shipp (Shippiddge) 另外上傳的 MV
 如果有需要我也可以另外做一個 MV 版本。
 
