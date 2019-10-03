@@ -1,0 +1,67 @@
+# Jekyll configuration
+
+name: 好冷酒檔案
+description: 我會開發 Xamarin App 和翻譯 Youtube 影片，最新動態請關注我的 Twitter。
+  此處僅為了長遠考量當聯繫窗口用，例如作品集、技術分享、贊助連結等等。
+# 我擅長 Youtube 影片翻譯、App 開發、聊天室機器人開發。
+# 本站僅作為聯絡窗口，最新動態請關注我的 Twitter 和 Youtube 頻道。
+
+plugins:
+  - jekyll-paginate
+
+# Url is currently only used only for the RSS feed in feed.xml
+url: https://hollen9.github.io/
+#url: http://localhost:4000
+disqusIdDomain: https://hollen9.github.io
+
+# For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
+baseurl:
+
+author: Hollen9
+copyright: 2012-2019
+
+share:
+  line: true
+  facebook: true
+  twitter: true
+  gplus: false
+  linkedin: false
+  pinterest: false
+  email: false
+
+social:
+  twitter: hollen9_tw
+  youtube: HollenXD
+  github: hollen9
+  stackoverflow: 3939608/hollen9
+  linkedin: 
+  instagram: 
+  lastfm: 
+  rss: feed.xml
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-59156800-3
+
+# Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
+yandex_metrica:
+
+
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+disqus: hollen9
+comments: true
+
+permalink: /:year/:month/:title/
+
+# Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
+paginate: 3
+
+#highlighter: rouge
+
+markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: true
+
+exclude: ['README.md', 'LICENSE']
