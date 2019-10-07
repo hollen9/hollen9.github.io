@@ -155,42 +155,95 @@ me-蜂取中文諧音，蜜蜂。
 原文歌詞
 ```
 Slaughtering all who are smaller
+虐殺比你弱小之人
+
 And too weak to resist
+他們無力抵抗
+
 Your reign of terror is over
+你的恐怖統治已經完結
+
 I’ll crush all your bones with my fist!
+我會用我的拳頭，打碎你全身上下每根骨頭！
 
 You can’t win this time.
+這次你沒辦法贏。
+
 I will end your life!
-despise
-Now it’s time for y
-You are the one we our demise.
+我會了結你的生命！
+
+You are the one we despise
+你是我們鄙視的人
+
+Now it’s time for your demise.
+現在是你殞落的時候了。
+
 You’ll soon feel the brunt, of a force hard and blunt.
+很快的，你就會感受到一陣強烈的痛處
+
 It’s time to cut you down to size.
+是時候削削你的銳氣了。
 
 This fight you will never win.
+這場戰鬥你不可能贏。
+
 I’ll cleanse the world of your sin.
+我會替你淨化留在這世上的一切罪惡。
+
 You murder and lie, for no reason why
+你那無來由的謀殺和謊言
+
 There’s no turning back. It’s time. To. Die.
+已經沒有回頭路。現在，就是時候，受死吧。
 
 Hundreds of innocents slaughtered
+上百的無辜民眾遇害
+
 Most in their physical prime.
+大多數還正值青壯年時期
+
 You killed as you ravaged their homelands
+你殺人的同時還破壞了他們的家園
+
 Now you will pay for your crimes.
+現在，你要為所犯下的罪行付出代價。
 
 Your funeral's been penned.
+你的忌日已經定奪了
+
 No one will attend!
+但沒有人會去悼念！
 
 Hahahahahahaha
+哈哈哈哈哈哈哈
 
 DIE..!..!..!..!
+死吧..！..！..！..！
 
 Your time has come.
+你的時辰已經到了。
+
 Your end is near.
+你的終末近在眼前
+
 You cannot hide.
+你躲不了的
+
 I smell your fear.
+我聞得到你恐懼的氣味
+
 You’re cornered now.
+現在你走投無路了
+
 Say your goodbye
+說再見吧
+
 One final strike
+這最後一擊
+
 Now you will- 
+就會讓你
+
 die.
+死
 ```
