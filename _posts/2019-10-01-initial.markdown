@@ -6,8 +6,7 @@ description: 第一PO。
 toc: false
 share: false
 comments: true
-tags:
- - Misc
+tags: Misc
 ---
 
 因為 Youtube 想收[贊助]({{ '/donate' }})，所以想要一個免費、長期、安穩的 Host 放網站。
