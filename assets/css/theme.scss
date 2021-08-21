@@ -432,6 +432,10 @@ table.inner-borders {
   position: absolute;
 }
 
+//********************************************************
+//                    Post Content
+//********************************************************
+
 .box h3{
 	text-align:center;
 	position:relative;
@@ -459,7 +463,11 @@ table.inner-borders {
 .post-content h5,
 .post-content h6 {
   padding-top: 0px;
-  margin-top: 0px;
+  margin-top: 1.5rem;
+}
+
+.post-content li {
+  margin-bottom: 0.5rem;
 }
 
 
