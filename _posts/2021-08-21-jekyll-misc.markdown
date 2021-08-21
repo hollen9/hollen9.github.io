@@ -6,7 +6,7 @@ description: 個人向 Jekyll 的各種狀況
 toc: false
 share: true
 comments: true
-tags: jekyll development
+tags: Jekyll Development
 ---
 
 # 編譯問題
