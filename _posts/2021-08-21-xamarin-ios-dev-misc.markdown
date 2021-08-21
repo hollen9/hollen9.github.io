@@ -55,3 +55,9 @@ Developer Relations Intermediate Certificate 可能過期了，蘋果有時候�
 
 #### Q: 奇怪明明可以連線至 MacOS ，可是 Build 或 Archive 或 Distribute 的時候就給我顯示無法連線至 macOS?
 刪除 `%localappdata%\Temp\Xamarin\XMA` 資料夾，重開 VS 和 macOS。
+
+## 心得
+用 Windows 的 Visual Studio 連 VMWare 的 macOS 是 CP 仔好夥伴。
+今年我說服公司採購 M1 Mac Mini 16G/512G 1G，編譯真的快很多! 而且模擬器秒開。
+缺點是目前我只能用 Visual Studio Community for Mac
+因為不像是 Windows 平台，Visual Studio Enterprise 隨便 Google 都有 (?)
