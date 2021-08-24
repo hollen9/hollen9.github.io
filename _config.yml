@@ -8,6 +8,7 @@ description: 我會開發 Xamarin App 和翻譯 Youtube 影片，最新動態請
 
 plugins:
   - jekyll-paginate
+  - jekyll-gist
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: https://hollen9.github.io/
