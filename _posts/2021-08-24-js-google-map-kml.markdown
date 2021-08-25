@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 利用 Google Maps Javascript 匯入 KML 檔案自動畫圖
-date:   2021-08-24 17:41
+date:   2021-08-24 17:41 +8
 description: 如何不自己讀取資料，直接利用 KmlLayer 呈現。以及可能會碰到的問題。
 toc: false
 share: true

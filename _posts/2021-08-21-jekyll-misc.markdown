@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Jekyll tips
-date:   2021-08-21 17:41
+date:   2021-08-21 17:41 +8
 description: 個人向 Jekyll 的各種狀況
 toc: false
 share: true

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Shippiddge動畫 | 新手戰隊09：蜥蜴殺手
-date:   2019-10-01 14:57
+date:   2019-10-01 14:57 +8
 description: Shippiddge 用心製作的寶可夢動畫！
   影片中出現的英文片語是什麼意思？
   妙蛙種子很愛說雙關語？

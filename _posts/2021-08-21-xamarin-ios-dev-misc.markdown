@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Xamarin iOS 常見問題
-date:   2021-08-21 15:57
+date:   2021-08-21 15:57 +8
 description: 個人向 Xamarin iOS 在編譯、部署時會遇到的各種問題
 toc: false
 share: true

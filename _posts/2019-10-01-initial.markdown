@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 剛設好這網站
-date:   2019-10-01 03:05
+date:   2019-10-01 03:05 +8
 description: 第一PO。
 toc: false
 share: false
